@@ -1,0 +1,22 @@
+z
+{
+	color: #44ff00	;
+	font-size: 46px ;
+	transform: rotate(180deg);
+	display: inline-block;
+	text-transform: uppercase;
+	background-color: #ff0000;
+	text-decoration: underline;
+	text-shadow: -75px -5px 0px rgba(150, 150, 150, 1);
+}
+
+div{
+	
+	background-image: url('https://ichef.bbci.co.uk/news/800/cpsprodpb/14236/production/_104368428_gettyimages-543560762.jpg.webp');
+	width: auto;
+	height: 500px;
+	background-size: cover;
+
+	
+	}
+	
